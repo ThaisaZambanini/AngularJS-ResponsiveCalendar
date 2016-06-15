@@ -1,11 +1,11 @@
 {
     "name": "ng-responsive-calendar",
-    "version": "0.1.14",
-    "homepage": "https://github.com/twinssbc/AngularJS-ResponsiveCalendar",
+    "version": "0.0.1",
+    "homepage": "https://github.com/ThaisaZambanini/AngularJS-ResponsiveCalendar",
     "authors": [
-        "twinssbc <bocong@hotmail.com>"
+        "thaisa <thaisa.zambanini@gmail.com>"
     ],
-    "description": "A pure AngularJS responsive calendar directive",
+    "description": "AngularJS responsivo calendario",
     "main": [
         "dist/css/calendar.css",
         "dist/js/calendar-tpls.js"
